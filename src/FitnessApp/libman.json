@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "mdb-ui-kit@6.1.0",
+      "destination": "wwwroot/lib/mdb/",
+      "files": [
+        "css/mdb.min.css"
+      ]
+    }
+  ]
+} 
